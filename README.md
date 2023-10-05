@@ -1,5 +1,7 @@
 # DIO - Resumo Git e GitHub
 
+Edited by fanzz293 
+
 Repositório para armazenar resumos sobre Git e GitHub do curso versionamento de código com Git e GitHub da [Digital Innovation One](https://dio.me).
 
 ## 📕 Documentação
